@@ -1,2 +1,2 @@
 # nanomono
-Barebones minimalist monorepo cli tool for when Lerna/Rush/Bazel is definitely overkill
+Ultra-minimalist CLI tool for smaller monorepos where Lerna/Rush/Bazel would be overkill
