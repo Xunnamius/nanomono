@@ -1,2 +1,2 @@
-# minirepo
-Barebones minimalist monorepo utils for when Lerna/Rush/Bazel seem like overkill
+# mono-echo
+Barebones minimalist monorepo cli tool for when Lerna/Rush/Bazel is definitely overkill
